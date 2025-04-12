@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T03:22:43.229Z",
+  "generated_at": "2026-10-13T03:22:45.250Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -65,6 +65,71 @@
       "last_pushed_at": "2025-04-10T04:00:15.581Z",
       "language": "python",
       "lines": 2
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2025-04-12T05:31:33.108Z",
+      "last_pushed_at": "2025-04-12T05:31:33.108Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2025-04-12T05:41:35.246Z",
+      "last_pushed_at": "2025-04-12T05:41:35.246Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2025-04-12T11:07:43.389Z",
+      "last_pushed_at": "2025-04-12T11:07:43.389Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2025-04-12T12:57:05.768Z",
+      "last_pushed_at": "2025-04-12T12:57:05.768Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2025-04-12T15:20:44.970Z",
+      "last_pushed_at": "2025-04-12T15:20:44.970Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
