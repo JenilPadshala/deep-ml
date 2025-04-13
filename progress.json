@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T03:22:45.250Z",
+  "generated_at": "2026-10-13T03:22:47.082Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -130,6 +130,84 @@
       "last_pushed_at": "2025-04-12T15:20:44.970Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2025-04-13T08:57:51.485Z",
+      "last_pushed_at": "2025-04-13T08:57:51.485Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:65": {
+      "kind": "problem",
+      "id": "65",
+      "title": "Implement Compressed Row Sparse Matrix (CSR) Format Conversion",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/65",
+      "path": "problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion",
+      "first_solved_at": "2025-04-13T09:07:36.747Z",
+      "last_pushed_at": "2025-04-13T09:07:36.747Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2025-04-13T09:21:20.710Z",
+      "last_pushed_at": "2025-04-13T09:21:20.710Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:67": {
+      "kind": "problem",
+      "id": "67",
+      "title": "Implement Compressed Column Sparse Matrix Format (CSC)",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/67",
+      "path": "problems/0067-implement-compressed-column-sparse-matrix-format-csc",
+      "first_solved_at": "2025-04-13T09:26:54.201Z",
+      "last_pushed_at": "2025-04-13T09:26:54.201Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2025-04-13T09:32:02.324Z",
+      "last_pushed_at": "2025-04-13T09:32:02.324Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2025-04-13T09:35:04.062Z",
+      "last_pushed_at": "2025-04-13T09:35:04.062Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
