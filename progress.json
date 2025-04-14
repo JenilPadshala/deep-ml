@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T03:22:47.082Z",
+  "generated_at": "2026-10-13T03:22:48.900Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -208,6 +208,45 @@
       "last_pushed_at": "2025-04-13T09:35:04.062Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2025-04-14T03:54:28.923Z",
+      "last_pushed_at": "2025-04-14T03:54:28.923Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2025-04-14T03:59:08.623Z",
+      "last_pushed_at": "2025-04-14T03:59:08.623Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2025-04-14T04:02:34.873Z",
+      "last_pushed_at": "2025-04-14T04:02:34.873Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
