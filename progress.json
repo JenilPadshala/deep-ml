@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T03:22:50.491Z",
+  "generated_at": "2026-10-13T03:22:52.127Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -273,6 +273,32 @@
       "last_pushed_at": "2025-04-15T06:21:34.376Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:120": {
+      "kind": "problem",
+      "id": "120",
+      "title": "Bhattacharyya Distance Between Two Distributions",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/120",
+      "path": "problems/0120-bhattacharyya-distance-between-two-distributions",
+      "first_solved_at": "2025-04-16T09:35:50.171Z",
+      "last_pushed_at": "2025-04-16T09:35:50.171Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2025-04-16T09:43:10.243Z",
+      "last_pushed_at": "2025-04-16T09:43:10.243Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
