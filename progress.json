@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T03:23:05.618Z",
+  "generated_at": "2026-10-13T03:23:07.224Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -426,7 +426,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-10-03T04:38:43.727Z",
-      "last_pushed_at": "2026-10-03T04:38:43.727Z"
+      "last_pushed_at": "2026-10-13T03:23:07.222Z"
     },
     "math:30": {
       "kind": "math",
@@ -437,7 +437,7 @@
       "url": "https://www.deep-ml.com/math-problems/30",
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-10-12T04:38:08.882Z",
-      "last_pushed_at": "2026-10-12T04:38:08.882Z"
+      "last_pushed_at": "2026-10-13T03:23:07.222Z"
     },
     "math:34": {
       "kind": "math",
@@ -448,7 +448,7 @@
       "url": "https://www.deep-ml.com/math-problems/34",
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-10-12T10:53:42.874Z",
-      "last_pushed_at": "2026-10-12T10:53:42.874Z"
+      "last_pushed_at": "2026-10-13T03:23:07.222Z"
     },
     "math:1": {
       "kind": "math",
@@ -459,7 +459,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-10-12T11:12:17.063Z",
-      "last_pushed_at": "2026-10-12T11:12:17.063Z"
+      "last_pushed_at": "2026-10-13T03:23:07.222Z"
     },
     "math:5": {
       "kind": "math",
@@ -470,7 +470,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-10-12T12:08:46.444Z",
-      "last_pushed_at": "2026-10-12T12:08:46.444Z"
+      "last_pushed_at": "2026-10-13T03:23:07.222Z"
     }
   }
 }
